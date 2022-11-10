@@ -1,2 +1,2 @@
-# just-a-start
-This is start of building projects and poting here on github. Hopefully you find this usefuland learn something fronm this.
+# Results
+This is start of building projects and posting here. Hopefully you find this useful and learn something fronm this.
